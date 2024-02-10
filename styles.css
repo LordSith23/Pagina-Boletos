@@ -1,0 +1,41 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+
+body{
+    background-image: url(/boleto.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+header{
+ background-color: #a4a5a8;
+ margin: 0;
+}
+
+
+
+
+footer{
+background-color: #a4a5a8;
+margin-top: 30.3rem;
+}
+
+.txt-1{
+padding-top: 3rem;
+justify-content: center;
+align-items: center;
+display: flex;
+}
+
+.h-1{
+    height: 7rem;
+}
+
+.w-1{
+    width: 100%;
+}
